@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/51253611/how-to-get-an-autoencoder-to-work-on-a-small-image-dataset
+https://github.com/ChaitanyaNarva/image-similarity-model/blob/master/Image_similarity_model.ipynb
